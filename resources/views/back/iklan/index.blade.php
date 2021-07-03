@@ -16,6 +16,7 @@
                 <div class="card-header">
                     <div class="card-head-row">
                         <div class="card-title">Data Iklan</div>
+                        <a href="{{route('iklan.create')}}" class="btn btn-primary btn-sm ml-auto"><i class="fas fa-plus"></i> Tambah Iklan</a>
                     </div>
                 </div>
                 <div class="card-body">
